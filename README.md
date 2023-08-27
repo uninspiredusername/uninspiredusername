@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour/ Hi 👋
+
+My name is Olivier. I love trying to find answers using data and programming. 
 
 <!--
 **uninspiredusername/uninspiredusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
