@@ -8,5 +8,6 @@ I am currently studying SQL and R on CodeAcademy. I have completed the Data scie
 Biodiversity in National Parks : Are certain types of species more likely to be endangered ?
 Netflix : a financial analysis on stock profile
 Orion Constellation plotted in 2D and 3D
-Automated Game Night selector : optimizing availability and automating confirmation email 
+Automated Game Night selector : optimizing availability and automating confirmation email
+Bitcoin : Support and Resistance 
 
