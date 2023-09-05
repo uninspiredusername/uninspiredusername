@@ -17,3 +17,6 @@ Bitcoin : Support and Resistance.
 Airline Analysis : understanding first-class vs coach fares.
 
 Life expectancy and GDP : Is it correlated ?
+
+#### Certifications :
+
