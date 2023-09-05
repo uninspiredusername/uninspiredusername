@@ -2,7 +2,7 @@
 
 My name is Olivier. I have always found data exciting and considered it an opportunity to uncover truths and become more aware of human biases. I am currently studying NLP, SQL and R on CodeAcademy where I have already completed the Data science path, Python and SQL classes. Take a look at some Python projects I have completed below:
 
-#### Python projects :
+#### 🖥️ Python projects :
 
 - [Biodiversity in National Parks : Are certain types of species more likely to be endangered ?](https://github.com/uninspiredusername/biodiversity/tree/main)
 
