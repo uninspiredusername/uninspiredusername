@@ -16,7 +16,7 @@ Bitcoin : Support and Resistance.
 
 Airline Analysis : understanding first-class vs coach fares.
 
-Life expectancy and GDP : Is it correlated ?
+- [Life expectancy and GDP : Is it correlated?](https://github.com/uninspiredusername/life-gdp/tree/main)
 
 #### Certifications :
 
