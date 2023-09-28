@@ -1,6 +1,8 @@
 ### Bonjour/ Hi 👋
 
-My name is Olivier. I have always found data exciting and considered it an opportunity to uncover truths and become more aware of human biases. I am currently studying NLP, SQL and R on CodeAcademy where I have already completed the Data science path, Python and SQL classes. Take a look at some Python projects I have completed below:
+My name is Olivier. I have always found data exciting and seen it as an opportunity to uncover truths and become more aware of human biases. 
+I am currently studying NLP, SQL, R and Python on Codecademy. I have already completed a Data science path (focusing on SQL and Python) on Codecamedy.
+Take a look at some projects I have completed below:
 
 #### 🖥️ Python projects :
 
