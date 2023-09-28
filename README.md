@@ -12,7 +12,7 @@ Take a look at some projects I have completed below:
 
 Netflix : a financial analysis on stock profile.
 
-Orion Constellation plotted in 2D and 3D.
+- [Orion Constellation plotted in 2D and 3D](https://github.com/uninspiredusername/orion_constellation)
 
 Automated Game Night selector : optimizing availability and automating confirmation email.
 
